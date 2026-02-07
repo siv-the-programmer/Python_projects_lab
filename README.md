@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 # Python Projects Lab
 
 This repository is a personal Python practice laboratory.
