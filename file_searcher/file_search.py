@@ -4,7 +4,7 @@ from pathlib import Path
 # Main function
 def main():
     # path = Path to look in.
-    path = Path("ENTER_YOUR_PATH_TO_LOOK_IN")
+    path = Path("ENTER_PATH_TO_LOOK_IN")
     # Ask to enter the file name
     print("Enter a filename and the extension, eg: .txt or .docx")
     # targetpath = name of the file
